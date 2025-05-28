@@ -6,7 +6,7 @@
 
 ## 🚀 Overview
 
-A modern, responsive portfolio website built with Python (FastAPI) and HTML, CSS, and JavaScript. This portfolio showcases my skills, services, and contact information in an elegant, interactive interface designed to showcase my potential.
+A modern, responsive portfolio website built using Python (FastAPI), along with HTML, CSS, and JavaScript. It presents my skills, services, and contact details through an elegant, interactive interface designed to effectively highlight my capabilities.
 
 ![Portfolio Preview 1](static/images/image1.png)
 ![Portfolio Preview 2](static/images/image2.png)
