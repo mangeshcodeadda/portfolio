@@ -1,4 +1,4 @@
-# 💻 Mangesh Raikwar - Developer Portfolio
+# 💻 Mangesh Raikwar - Fullstack-Developer Portfolio
 
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
@@ -68,8 +68,9 @@ MyPortfolio-/
 ## 📞 Contact
 
 **Feel free to reach out for collaboration or job opportunities!**
--**Email:** raikwarmangesh2022@gmail.com  
--**Mobile:** +91-9359293756
+
+- **Email:** raikwarmangesh2022@gmail.com  
+- **Mobile:** +91-9359293756
 
 
 ---
