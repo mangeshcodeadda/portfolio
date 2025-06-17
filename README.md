@@ -35,27 +35,6 @@ A modern, responsive portfolio website built using Python (FastAPI), along with 
 - **Icons**: Font Awesome
 - **Fonts**: Google Fonts (Orbitron, Exo 2)
 
-## 🗂️ Project Structure
-
-```
-MyPortfolio-/
-├── portfolio/
-│   ├── static/
-│   │   ├── css/
-│   │   │   └── styles.css
-│   │   ├── js/
-│   │   │   └── script.js
-│   │   └── images/
-│   │       └── 1747376772419.jpg
-│   ├── templates/
-│   │   └── index.html
-│   ├── main.py
-│   └── requirements.txt
-├── requirement.txt
-└── README.md
-```
-
-
 ## 💼 Professional Skills
 
 - **Languages**: Python, JavaScript
